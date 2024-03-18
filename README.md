@@ -5,7 +5,7 @@
 
 
 ### Main page
-![Main Page](https://github.com/Topchak/React-Marvel/blob/main/public/images/marvelMain.png)
+![Main Page](https://github.com/Topchak/Portfolio-redux-toolkit/blob/main/show.gif)
 
 
 Здесь я использовал :
