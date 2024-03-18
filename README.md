@@ -15,7 +15,7 @@
 - **Верстка:** HTML5, CSS3, SCSS
 - **JavaScript:** ES6+, 
 - **Инструменты:** Webpack 
-- **React:** Hooks, Redux-ToolKit React Routers
+- **React:** Hooks, Redux-ToolKit, React Routers
 - **Версионирование:** Git/GitHub
 
 
